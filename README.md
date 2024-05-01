@@ -1,4 +1,4 @@
-# Submissions of group02
+# Submissions of group-02
 
 This repository contains baseline submissions and a template for the submission of your software to the TIRA platform. The TIRA platform is used to evaluate your software on a set of datasets. The evaluation is done in a controlled environment to ensure reproducibility and comparability of the results.
 
